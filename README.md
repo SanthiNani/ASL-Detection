@@ -89,8 +89,8 @@ To set up the project locally, follow these steps:
 ---
 
 ## Output of the Project
-Input - ![Screenshot 2025-03-04 105740](https://github.com/user-attachments/assets/e99db9e1-32de-4eaa-bcde-d12fbbb8a2b7)
-Final Output - ![Screenshot 2025-03-04 105715](https://github.com/user-attachments/assets/0830d4e6-3108-41aa-8a8c-1e6814e463ef)
+ ![Screenshot 2025-03-04 105715](https://github.com/user-attachments/assets/0830d4e6-3108-41aa-8a8c-1e6814e463ef)
+ ![Screenshot 2025-03-04 105740](https://github.com/user-attachments/assets/e99db9e1-32de-4eaa-bcde-d12fbbb8a2b7)
 
 ## Dataset
 The dataset used for this project contains 87,000 images of ASL signs, divided into 29 classes (26 letters + 3 symbols). Each class has separate folders for training and testing.
