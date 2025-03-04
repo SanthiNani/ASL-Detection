@@ -62,11 +62,12 @@ To set up the project locally, follow these steps:
    - Download the ASL dataset from [this link](https://www.kaggle.com/datasets/grassknoted/asl-alphabet).
    - Place the dataset in the `data` folder.
 
-4. **Train the Model** (Optional):
+4. **Train the Model**:
    If you want to train the model from scratch, run:
    ```bash
-   python train_and_save_model.py
+   python combined_app.py
    ```
+   If you run this file the model will be save as **asl_detection_model.h5** then run the app.py file in your command prompt
 
 5. **Run the Flask App**:
    Start the Flask web application:
