@@ -123,7 +123,7 @@ The CNN model is trained using TensorFlow/Keras. The model architecture consists
 ### Training Script
 To train the model, run:
 ```bash
-python train_and_save_model.py
+python combined_app.py
 ```
 The trained model will be saved as `asl_detection_model.h5`.
 
